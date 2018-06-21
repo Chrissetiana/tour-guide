@@ -1,4 +1,4 @@
-package com.chrissetiana.tourapp;
+package com.chrissetiana.tourguide;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

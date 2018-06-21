@@ -1,4 +1,4 @@
-package com.chrissetiana.tourapp;
+package com.chrissetiana.tourguide;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.chrissetiana.tourapp", appContext.getPackageName());
+        assertEquals("com.chrissetiana.tourguide", appContext.getPackageName());
     }
 }

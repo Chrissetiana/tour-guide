@@ -1,4 +1,4 @@
-package com.chrissetiana.tourapp;
+package com.chrissetiana.tourguide;
 
 import org.junit.Test;
 
